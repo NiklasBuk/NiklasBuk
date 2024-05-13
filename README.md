@@ -5,8 +5,7 @@
 ### :man_technologist: About Me :
 
 - :bearded_person: My name is Nikita
-- :books: I'm studying frontend developer
-- :drum: Perform in a drum show
+- :books: I'm frontend developer
 - :email: How to reach me: <a href="niklas.buk@gmail.com"><img src="https://img.shields.io/badge/Email-blue?logo=gmail&logoColor=red&style=for-the-badge" height="24px"/></a>
 
 ---
